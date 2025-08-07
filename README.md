@@ -114,7 +114,7 @@ Finance_Advisor merges cutting-edge GenAI with grounded financial intelligence t
 
 🔗 GitHub Deployment
 
-> Link: https://github.com/VARUN-B18/FINANCE_ADVISOR_AI_AGENT_IBM_PROJECT/edit/main/README.md
+> Link:https://github.com/VARUN-B18/FINANCE_ADVISOR_AI_AGENT_IBM_PROJECT
 
 
 
