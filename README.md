@@ -1,12 +1,19 @@
 FINANCE_ADVISOR_AI_AGENT_IBM_PROJECT
+
+💼 Finance_Advisor – AI Agent for Digital Financial Literacy
+
 Finance_Advisor is an AI-powered assistant built using IBM Cloud and watsonx.ai that provides intelligent, interactive guidance on finance, investing, and money management. It uses vector-grounded documents and market insights to answer user queries with depth, clarity, and accuracy.
 
 💼 Finance_Advisor – AI Agent for Digital Financial Literacy
 
+
 Finance_Advisor is an intelligent, multilingual financial assistant built using IBM Cloud and watsonx.ai. Designed for digital financial literacy, it leverages Retrieval-Augmented Generation (RAG) to deliver grounded, secure, and personalized responses to finance-related queries—empowering users with accurate, fraud-resistant, and culturally inclusive financial guidance.
 
 
+ 
 🚀 Problem Statement
+
+
 
 In a world driven by digital payments and decentralized finance, millions still lack access to clear and trustworthy financial knowledge.  
 **Finance_Advisor** addresses this gap through an AI agent capable of answering essential questions like:
@@ -17,7 +24,11 @@ In a world driven by digital payments and decentralized finance, millions still 
 It promotes digital financial confidence and protects users from misinformation and scams.
 
 
+
+ 🧠 Key Features
+=======
 🧠 Key Features
+
 
 - 🔎 Retrieval-Augmented Generation (RAG) for fact-based answers  
 - 📊 Market concepts, budgeting, UPI, loans, interest, and more  
@@ -27,7 +38,8 @@ It promotes digital financial confidence and protects users from misinformation 
 - 🎯 Personalized learning paths for different user types  
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 
 | Component                      | Technology                               |
 |-------------------------------|------------------------------------------|
@@ -40,7 +52,7 @@ It promotes digital financial confidence and protects users from misinformation 
 | Authentication (Optional)     | IBM App ID                               |
 
 
-🌍 IBM Cloud Services Used
+ 🌍 IBM Cloud Services Used
 
 - IBM Cloud Object Storage  
 - IBM Watsonx.ai Runtime  
@@ -50,8 +62,8 @@ It promotes digital financial confidence and protects users from misinformation 
 - IBM AI Tools  
 - IBM App ID for authentication  
 
-
 👥 End Users
+
 
 - 🎓 College Students & Young Professionals  
 - 💼 Working-Class Individuals  
@@ -65,7 +77,8 @@ It promotes digital financial confidence and protects users from misinformation 
 - 🌐 General Public Seeking Digital Finance Knowledge  
 
 
-💥 Wow Factors
+## 💥 Wow Factors
+
 
 - 🧠 Cognitive AI that understands money and behavior  
 - 📚 Grounded answers using reliable financial documents (RAG)  
@@ -95,6 +108,8 @@ It promotes digital financial confidence and protects users from misinformation 
 
 Example: User asks “How to manage monthly expenses?” → Assistant provides a step-by-step, budget-friendly plan based on real data and strategies.
 
+
+
 📚 References & Acknowledgments
 
 1. [IBM Cloud & watsonx.ai Documentation](https://www.ibm.com/docs/en)  
@@ -117,12 +132,12 @@ Finance_Advisor merges cutting-edge GenAI with grounded financial intelligence t
 > Link:https://github.com/VARUN-B18/FINANCE_ADVISOR_AI_AGENT_IBM_PROJECT
 
 
-
-
 👤 Author
 
 **Varun B**  
 Department of CSE, Presidency University  
 🎓 IBM SkillsBuild AI & Cloud Intern  
 📧 [varungowda618@gmail.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/varun-b-29280425a/)
+
+
+
